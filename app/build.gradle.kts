@@ -16,7 +16,7 @@
 
 plugins {
     id("com.android.application")
-    id("org.jlleitschuh.gradle.ktlint") version "10.3.0"
+    id("org.jlleitschuh.gradle.ktlint") version "12.0.3"
     kotlin("android")
     kotlin("kapt")
 }
